@@ -1,0 +1,5 @@
+﻿  game.cpp
+D:\0point\study\sheglova_proga\щеглова\4\Lab4\Prog_Lab4 (на отправку)\Prog_Lab4\game.cpp(12,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  main.cpp
+  Создание кода...
+  Prog_Lab4.vcxproj -> D:\0point\study\sheglova_proga\щеглова\4\Lab4\Prog_Lab4 (на отправку)\Prog_Lab4\Debug\Prog_Lab4.exe
