@@ -1,0 +1,7 @@
+﻿  lab5.cpp
+D:\0point\study\sheglova_proga\щеглова\5\lab5\lab5.cpp(62,28): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\0point\study\sheglova_proga\щеглова\5\lab5\lab5.cpp(90,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\0point\study\sheglova_proga\щеглова\5\lab5\lab5.cpp(116,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\0point\study\sheglova_proga\щеглова\5\lab5\lab5.cpp(169,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\0point\study\sheglova_proga\щеглова\5\lab5\lab5.cpp(47): warning C4715: staite: значение возвращается не при всех путях выполнения
+  lab5.vcxproj -> D:\0point\study\sheglova_proga\щеглова\5\lab5\Debug\lab5.exe

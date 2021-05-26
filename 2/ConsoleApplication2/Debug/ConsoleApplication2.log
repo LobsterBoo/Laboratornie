@@ -1,0 +1,5 @@
+﻿  ConsoleApplication2.cpp
+E:\Информатика\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(27,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\Информатика\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(36,54): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\Информатика\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(15,3): warning C4101: e: неиспользованная локальная переменная
+  ConsoleApplication2.vcxproj -> E:\Информатика\ConsoleApplication2\Debug\ConsoleApplication2.exe
